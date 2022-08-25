@@ -1,0 +1,63 @@
+.user-container {
+    max-width: 1630px;
+    margin:auto;
+    
+}
+
+.user-content {
+    display:flex;
+    border:2px solid yellow;
+    margin-top:20px;
+    width:500px;
+    height:800px;
+}
+
+.user-img {
+    margin-left:100px;
+}
+
+hr {
+    width:320px;
+    margin-left:90px;
+    height:2px;
+    border:0px;
+    background-color: yellow;
+}
+
+.user-name {
+    text-align: center;
+    margin-left:-100px;
+    margin-top: 60px;
+    color:yellow;
+}
+
+.user-email {
+    text-align: center;
+    margin-left:-100px;
+    margin-top: 70px;
+    color:yellow;
+}
+
+.user-login {
+    text-align: center;
+    margin-left:-100px;
+    margin-top: 70px;
+    color:yellow;
+}
+
+.user-content-trans {
+    width:1200px;
+    height:800px;
+    border:2px solid yellow;
+    margin-left:100px;
+}
+
+.user-content-trans-hist {
+    width:3000px;
+}
+
+.user-content-trans-balance {
+    margin-left:1100px;
+    margin-top:100px;
+    color:yellow;
+}
